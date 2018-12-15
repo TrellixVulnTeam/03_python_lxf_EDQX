@@ -277,7 +277,7 @@ def fact(n):
 
 ##### 模块  
 
-![1544882412826](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1544882412826.png)
+![1544882412826](https://github.com/RV1101/03_python_lxf/tree/master/image/1544882412826.png)
 
 ###### 实用模块
 
